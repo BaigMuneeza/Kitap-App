@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomerModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CustomerModel>
+    <Username>Hannah12</Username>
+    <Password>pass</Password>
+    <FirstName>Hannah</FirstName>
+    <LastName>Abott</LastName>
+    <Address>House 7453</Address>
+    <Email>Hannah@gmail654.com</Email>
+    <UserType>1</UserType>
+  </CustomerModel>
+  <CustomerModel>
+    <Username>Ali567</Username>
+    <Password>qwerty</Password>
+    <FirstName>Ali</FirstName>
+    <LastName>Khan</LastName>
+    <Address>House2324</Address>
+    <Email>Ali@gmail234.com</Email>
+    <UserType>1</UserType>
+  </CustomerModel>
+  <CustomerModel>
+    <Username>Sarah789</Username>
+    <Password>pass</Password>
+    <FirstName>Sarah</FirstName>
+    <LastName>Denise</LastName>
+    <Address>House 4</Address>
+    <Email>Sarah@gmai254.com</Email>
+    <UserType>1</UserType>
+  </CustomerModel>
+  <CustomerModel>
+    <Username>test87</Username>
+    <Password>pass45</Password>
+    <FirstName>Alexander</FirstName>
+    <LastName>Adam</LastName>
+    <Address>House no 134</Address>
+    <Email>alexander@hotmail.com</Email>
+    <UserType>1</UserType>
+  </CustomerModel>
+</ArrayOfCustomerModel>

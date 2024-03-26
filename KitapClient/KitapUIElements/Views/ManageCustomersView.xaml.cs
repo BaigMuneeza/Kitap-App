@@ -42,7 +42,8 @@ namespace KitapUIElements.Views
             IList selectedRows = Selection.ToList();
             CustomerModel selectedRow = (CustomerModel)selectedRows[0];
             GUIHandler.Instance.ClientManager.SendObjectToServer(selectedRow);
-            view.DeleteRow(view.FocusedRowHandle); 
+            view.DeleteRow(view.FocusedRowHandle);
+            MessageBox.Show("Request Approved");
         }
     }
 }

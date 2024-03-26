@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProductModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProductModel>
+    <BookId>1</BookId>
+    <BookGenre>Fantasy</BookGenre>
+    <BookTitle>Harry Potter and the Prisoner of Azkaban</BookTitle>
+    <Author>J.K Rowling</Author>
+    <CoverImage>C:/ImageSource/Books/harry-potter-and-the-prisoner-of-azkaban.jpg</CoverImage>
+    <ProductStock>900</ProductStock>
+  </ProductModel>
+  <ProductModel>
+    <BookId>2</BookId>
+    <BookGenre>Fantasy</BookGenre>
+    <BookTitle>Harry Potter and the Deathly Hallows</BookTitle>
+    <Author>J.K Rowling</Author>
+    <CoverImage>C:/ImageSource/Books/harry-potter-and-the-deathly-hallows.jpg</CoverImage>
+    <ProductStock>500</ProductStock>
+  </ProductModel>
+  <ProductModel>
+    <BookId>3</BookId>
+    <BookGenre>Fantasy</BookGenre>
+    <BookTitle>Harry Potter and the Chamber of Secrets</BookTitle>
+    <Author>J.K Rowling</Author>
+    <CoverImage>C:/ImageSource/Books/harry-potter-and-the-chamber-of-secrets.jpg</CoverImage>
+    <ProductStock>500</ProductStock>
+  </ProductModel>
+  <ProductModel>
+    <BookId>4</BookId>
+    <BookGenre>Fantasy</BookGenre>
+    <BookTitle>The Lion, the Witch and the Wardrobe</BookTitle>
+    <Author>C.S. Lewis</Author>
+    <CoverImage>C:/ImageSource/Books/The Lion The Witch And The Wardrobe.jpg</CoverImage>
+    <ProductStock>600</ProductStock>
+  </ProductModel>
+  <ProductModel>
+    <BookId>6</BookId>
+    <BookGenre>Mystery</BookGenre>
+    <BookTitle>The Hound of the Baskervilles</BookTitle>
+    <Author>Arthur Conan Doyle</Author>
+    <CoverImage>C:/ImageSource/Books/The Hound of the Baskervilles.jpg</CoverImage>
+    <ProductStock>500</ProductStock>
+  </ProductModel>
+  <ProductModel>
+    <BookId>7</BookId>
+    <BookGenre>Mystery</BookGenre>
+    <BookTitle>The Silent Patient</BookTitle>
+    <Author>Alex Michaelides</Author>
+    <CoverImage>C:/ImageSource/Books/The Silent Patient.jpg</CoverImage>
+    <ProductStock>600</ProductStock>
+  </ProductModel>
+  <ProductModel>
+    <BookId>8</BookId>
+    <BookGenre>Mystery</BookGenre>
+    <BookTitle>The Valley of Fear</BookTitle>
+    <Author>Arthur Conan Doyle</Author>
+    <CoverImage>C:/ImageSource/Books/THE VALLEY OF FEAR.jpg</CoverImage>
+    <ProductStock>500</ProductStock>
+  </ProductModel>
+  <ProductModel>
+    <BookId>9</BookId>
+    <BookGenre>Mystery</BookGenre>
+    <BookTitle>A Study in Scarlet</BookTitle>
+    <Author>Arthur Conan Doyle</Author>
+    <CoverImage>C:/ImageSource/Books/A-Study-in-Scarlet.jpg</CoverImage>
+    <ProductStock>500</ProductStock>
+  </ProductModel>
+  <ProductModel>
+    <BookId>10</BookId>
+    <BookGenre>Mystery</BookGenre>
+    <BookTitle>We Were Liars</BookTitle>
+    <Author>E.Lockhart</Author>
+    <CoverImage>C:/ImageSource/Books/we were liars.jpg</CoverImage>
+    <ProductStock>700</ProductStock>
+  </ProductModel>
+  <ProductModel>
+    <BookId>11</BookId>
+    <BookGenre>Sci-Fi</BookGenre>
+    <BookTitle>Artemis Fowl</BookTitle>
+    <Author>Eoin Colfer</Author>
+    <CoverImage>C:/ImageSource/Books/Artemis Fowl.jpg</CoverImage>
+    <ProductStock>600</ProductStock>
+  </ProductModel>
+  <ProductModel>
+    <BookId>12</BookId>
+    <BookGenre>Sci-Fi</BookGenre>
+    <BookTitle>Dune</BookTitle>
+    <Author>Frank Herbert</Author>
+    <CoverImage>C:/ImageSource/Books/Dune.jpg</CoverImage>
+    <ProductStock>800</ProductStock>
+  </ProductModel>
+  <ProductModel>
+    <BookId>13</BookId>
+    <BookGenre>Sci-Fi</BookGenre>
+    <BookTitle>The Handmaids Tale</BookTitle>
+    <Author>Martgret Atwood</Author>
+    <CoverImage>C:/ImageSource/Books/The Handmaids Tale.jpg</CoverImage>
+    <ProductStock>600</ProductStock>
+  </ProductModel>
+  <ProductModel>
+    <BookId>14</BookId>
+    <BookGenre>Classicals</BookGenre>
+    <BookTitle>Frankenstien</BookTitle>
+    <Author>Mary Shelley</Author>
+    <CoverImage>C:/ImageSource/Books/Frankenstien.jpg</CoverImage>
+    <ProductStock>800</ProductStock>
+  </ProductModel>
+  <ProductModel>
+    <BookId>15</BookId>
+    <BookGenre>Classicals</BookGenre>
+    <BookTitle>The little prince</BookTitle>
+    <Author>Antoine De Saint-Exupery</Author>
+    <CoverImage>C:/ImageSource/Books/The little prince.jpg</CoverImage>
+    <ProductStock>900</ProductStock>
+  </ProductModel>
+</ArrayOfProductModel>
