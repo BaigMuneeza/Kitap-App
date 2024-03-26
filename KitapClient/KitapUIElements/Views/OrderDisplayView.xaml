@@ -1,0 +1,138 @@
+﻿<Page x:Class="KitapUIElements.Views.OrderDisplayView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:KitapUIElements.Views" xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+      mc:Ignorable="d" 
+      Height="650" Width="900"
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="OrderDisplayView">
+
+
+    <Border CornerRadius="20">
+        <Border.Background>
+            <ImageBrush ImageSource="C:/ImageSource/CheckoutBackground.png" />
+        </Border.Background>
+
+
+
+        <Border CornerRadius="15" BorderBrush="Black"  BorderThickness="3" Opacity="1">
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="98*"/>
+                    <ColumnDefinition Width="150*"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <local:CancelMenu Grid.Row="0" Grid.ColumnSpan="2"/>
+                <dx:SimpleButton x:Name="Back" Grid.Row="0" BorderThickness="0"  Content="CONFIRM" Foreground="Black"  Width="30" Height="30" CornerRadius="20" Margin="15,0,267,0" Padding="5" Glyph="C:/ImageSource/icons8-back-35.png" Click="BackToDash_Click">
+                    <dx:SimpleButton.Style>
+                        <Style TargetType="dx:SimpleButton">
+                            <Setter Property="Background" Value="White"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="LightGray"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </dx:SimpleButton.Style>
+                </dx:SimpleButton>
+
+                <StackPanel Grid.Column="1" Grid.Row="1" Margin="64,10,29,0">
+
+                    <Image Source="C:/ImageSource/CheckoutHeader.png" Width="200" Height="20" Margin="0,0,0,20"/>
+
+                    <ListBox x:Name="cartListBox" Height="450" ItemsSource="{Binding CartCollection}" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Visible">
+                        <ListBox.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <StackPanel Orientation="Vertical" />
+                            </ItemsPanelTemplate>
+                        </ListBox.ItemsPanel>
+
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <Border BorderBrush="White" BorderThickness="1" Margin="5" Padding="10" Background="White" Height="100" >
+                                    <StackPanel Orientation="Horizontal">
+                                        <Image Source="{Binding CoverImage}" />
+                                        <StackPanel Orientation="Vertical" Margin="0,0,10,0">
+                                            <TextBlock Text="Title" FontWeight="Bold" Margin="0,5,0,0"/>
+                                            <TextBlock Text="Author" FontWeight="Bold" Margin="0,5,0,0"/>
+                                            <TextBlock Text="Quantity" FontWeight="Bold" Margin="0,5,0,0"/>
+                                        </StackPanel>
+                                        <StackPanel Orientation="Vertical">
+                                            <TextBlock Text="{Binding BookTitle}" FontWeight="Bold" Margin="0,5,0,0"/>
+                                            <TextBlock Text="{Binding Author}" Margin="0,5,0,0"/>
+                                            <TextBlock Text="{Binding Quantity}" Margin="0,5,0,0"/>
+                                        </StackPanel>
+                                        <Button  Width="30" Height="30" Background ="Transparent" BorderThickness="0" Padding="5" Margin="20,0,20,20"
+                                           Command="{Binding DataContext.RemoveFromCartCommand, RelativeSource={RelativeSource AncestorType={x:Type ListBox}}}"
+                                           CommandParameter="{Binding}">
+                                            <Image Source="C:/ImageSource/icons8-cancel-24.png"   Width="20" Height="20" />
+                                        </Button>
+                                    </StackPanel>
+                                </Border>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                    <dx:SimpleButton x:Name="ConfirmOrder" BorderThickness="0" Background="Black" Content="CONFIRM" Foreground="White" FontSize="16" Cursor="Hand" Width="150" Height="30" CornerRadius="15" Grid.Column="2" Margin="0,30,0,0" Glyph="C:/ImageSource/icons8-tick-24.png" Click="ConfirmOrderView_Click"/>
+                </StackPanel>
+            </Grid>
+        </Border>
+    </Border>
+</Page>
+
+
+<!--<Grid x:Name="MainGrid" Background="White" Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="40" />
+        </Grid.RowDefinitions>
+
+        <local:CancelMenu Grid.Row="0" Grid.ColumnSpan="2"/>
+        <Button x:Name="Back" Grid.Row="0"  Width="30" Height="30" Background ="Transparent" BorderThickness="0" Padding="5" Margin="0,0,730,0" Click="BackToDash_Click">
+            <Image Source="C:/ImageSource/icons8-back-35.png"   Width="20" Height="20" />
+        </Button>
+
+        <Label Grid.Row="1" Content="Cart View" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="15"/>
+
+        <ListBox Grid.Row="2" x:Name="cartListBox"  ItemsSource="{Binding CartCollection}" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Visible">
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <StackPanel Orientation="Vertical" />
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Border BorderBrush="White" BorderThickness="1" Margin="5" Padding="10" Background="White" Height="100" >
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="{Binding CoverImage}" />
+                            <StackPanel Orientation="Vertical">
+                                <TextBlock Text="{Binding BookTitle}" FontWeight="Bold" Margin="0,5,0,0"/>
+                                <TextBlock Text="{Binding Author}" Margin="0,5,0,0"/>
+                                <TextBlock Text="{Binding Quantity}" Margin="0,5,0,0"/>
+                            </StackPanel>
+                            <Button  Width="30" Height="30" Background ="Transparent" BorderThickness="0" Padding="5" Margin="20,0,20,20"
+                             Command="{Binding DataContext.RemoveFromCartCommand, RelativeSource={RelativeSource AncestorType={x:Type ListBox}}}"
+                             CommandParameter="{Binding}">
+                                <Image Source="C:/ImageSource/icons8-cancel-24.png"   Width="20" Height="20" />
+                            </Button>
+                        </StackPanel>
+                    </Border>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <Button x:Name="ConfirmOrder" Grid.Row="3" VerticalAlignment="Bottom"  Click="ConfirmOrderView_Click" Background="White"  BorderThickness="0" Margin="700,0,23,1">
+            <Image Source="C:/ImageSource/icons8-confirm-32.png"   Width="35" Height="35" />
+        </Button>
+    </Grid>
+</Page>-->

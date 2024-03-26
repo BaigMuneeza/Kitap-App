@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitapUIElements", "KitapUIElements\KitapUIElements.csproj", "{0309A7FE-22C4-46BF-BC90-B6D68C8DE02D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitapRepositories", "..\KitapRepositories\KitapRepositories\KitapRepositories.csproj", "{CC53F5C6-F038-4119-9935-0A0278B216CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitapCache", "KitapCache\KitapCache.csproj", "{A546FD72-2708-4467-BC7A-E39DD3217244}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitapClientMananger", "KitapClientMananger\KitapClientMananger.csproj", "{46696EF9-3AAE-4708-9487-7CB7BAC3E0D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitapApp", "KitapApp\KitapApp.csproj", "{E23560E7-B186-4BC1-82D9-04F458452756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appclientconsole", "..\CurrentClientStructure\Appclientconsole.csproj", "{2FBE9196-2DE2-4941-ABB4-0FBDD046768F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0309A7FE-22C4-46BF-BC90-B6D68C8DE02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0309A7FE-22C4-46BF-BC90-B6D68C8DE02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0309A7FE-22C4-46BF-BC90-B6D68C8DE02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0309A7FE-22C4-46BF-BC90-B6D68C8DE02D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC53F5C6-F038-4119-9935-0A0278B216CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC53F5C6-F038-4119-9935-0A0278B216CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC53F5C6-F038-4119-9935-0A0278B216CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC53F5C6-F038-4119-9935-0A0278B216CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A546FD72-2708-4467-BC7A-E39DD3217244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A546FD72-2708-4467-BC7A-E39DD3217244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A546FD72-2708-4467-BC7A-E39DD3217244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A546FD72-2708-4467-BC7A-E39DD3217244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46696EF9-3AAE-4708-9487-7CB7BAC3E0D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46696EF9-3AAE-4708-9487-7CB7BAC3E0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46696EF9-3AAE-4708-9487-7CB7BAC3E0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46696EF9-3AAE-4708-9487-7CB7BAC3E0D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E23560E7-B186-4BC1-82D9-04F458452756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E23560E7-B186-4BC1-82D9-04F458452756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E23560E7-B186-4BC1-82D9-04F458452756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E23560E7-B186-4BC1-82D9-04F458452756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FBE9196-2DE2-4941-ABB4-0FBDD046768F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBE9196-2DE2-4941-ABB4-0FBDD046768F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBE9196-2DE2-4941-ABB4-0FBDD046768F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBE9196-2DE2-4941-ABB4-0FBDD046768F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C93A81F1-05AE-4409-91A5-FCB3A9BD750B}
+	EndGlobalSection
+EndGlobal

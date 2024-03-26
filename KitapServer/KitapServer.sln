@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitapServer", "KitapServer\KitapServer.csproj", "{066B1022-0754-4A75-8944-56C47197A82C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{B75A67A0-CE57-41CB-A031-0F078282B9F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitapRepositories", "..\KitapRepositories\KitapRepositories\KitapRepositories.csproj", "{CC53F5C6-F038-4119-9935-0A0278B216CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitapFileManager", "KitapFileManager\KitapFileManager.csproj", "{31EF6C5B-4716-41AD-A194-488087A1728B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{066B1022-0754-4A75-8944-56C47197A82C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{066B1022-0754-4A75-8944-56C47197A82C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{066B1022-0754-4A75-8944-56C47197A82C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{066B1022-0754-4A75-8944-56C47197A82C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B75A67A0-CE57-41CB-A031-0F078282B9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B75A67A0-CE57-41CB-A031-0F078282B9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B75A67A0-CE57-41CB-A031-0F078282B9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B75A67A0-CE57-41CB-A031-0F078282B9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC53F5C6-F038-4119-9935-0A0278B216CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC53F5C6-F038-4119-9935-0A0278B216CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC53F5C6-F038-4119-9935-0A0278B216CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC53F5C6-F038-4119-9935-0A0278B216CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31EF6C5B-4716-41AD-A194-488087A1728B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EF6C5B-4716-41AD-A194-488087A1728B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EF6C5B-4716-41AD-A194-488087A1728B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EF6C5B-4716-41AD-A194-488087A1728B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD51AC02-B608-459E-984B-6BD2819EF269}
+	EndGlobalSection
+EndGlobal

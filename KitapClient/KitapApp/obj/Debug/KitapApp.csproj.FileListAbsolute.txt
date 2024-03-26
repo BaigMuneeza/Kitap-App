@@ -1,0 +1,214 @@
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.csproj.AssemblyReference.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapApp.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapClientMananger.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapUIElements.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapCache.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapRepositories.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapClientMananger.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapUIElements.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapUIElements.exe.config
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapCache.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapRepositories.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.csproj.CopyComplete
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapApp.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.exe
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapApp.exe
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapApp.pdb
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapClientMananger.dll
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapUIElements.exe
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapCache.dll
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapRepositories.dll
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapClientMananger.pdb
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapUIElements.pdb
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapUIElements.exe.config
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapCache.pdb
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapRepositories.pdb
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.csproj.CopyComplete
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.exe
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapApp.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapApp.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapClientMananger.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapUIElements.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapCache.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapRepositories.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapClientMananger.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapUIElements.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapUIElements.exe.config
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapCache.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapRepositories.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.csproj.AssemblyReference.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.csproj.CopyComplete
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapApp.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapApp.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapCache.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapClientMananger.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapUIElements.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapRepositories.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapCache.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapClientMananger.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapUIElements.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapUIElements.exe.config
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapRepositories.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.csproj.AssemblyReference.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.csproj.CopyComplete
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Core.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Data.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Mvvm.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Drawing.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Core.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Data.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Mvvm.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Drawing.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Grid.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Grid.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Grid.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Grid.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapApp.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapApp.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapCache.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapClientMananger.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapUIElements.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapRepositories.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Core.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Grid.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Grid.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Data.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Mvvm.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Drawing.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapCache.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapClientMananger.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapUIElements.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapUIElements.exe.config
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapRepositories.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Core.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Grid.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Grid.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Data.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Mvvm.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Drawing.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.csproj.AssemblyReference.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.csproj.CopyComplete
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapApp.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapApp.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapCache.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapClientMananger.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapRepositories.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapUIElements.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Core.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Grid.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Grid.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Data.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Mvvm.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Drawing.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapRepositories.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapCache.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapClientMananger.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapUIElements.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapUIElements.exe.config
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Core.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Grid.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Grid.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Data.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Mvvm.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Drawing.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.csproj.AssemblyReference.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.csproj.CopyComplete
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Docking.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.XtraBars.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Layout.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Utils.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Docking.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Layout.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Utils.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapApp.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapApp.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapCache.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapClientMananger.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapRepositories.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapUIElements.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Core.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Docking.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.XtraBars.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Grid.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Grid.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Data.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Mvvm.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Drawing.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Layout.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Utils.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapRepositories.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapCache.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapClientMananger.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapUIElements.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\KitapUIElements.exe.config
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Core.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Docking.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Grid.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Grid.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Data.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Mvvm.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Drawing.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Xpf.Layout.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Utils.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.csproj.AssemblyReference.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.csproj.CopyComplete
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapApp\obj\Debug\KitapApp.pdb

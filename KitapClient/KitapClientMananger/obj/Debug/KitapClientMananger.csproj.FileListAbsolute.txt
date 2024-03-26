@@ -1,0 +1,30 @@
+C:\Users\MuBaig\source\repos\KitapClient\KitapClientMananger\bin\Debug\KitapClientMananger.dll
+C:\Users\MuBaig\source\repos\KitapClient\KitapClientMananger\bin\Debug\KitapClientMananger.pdb
+C:\Users\MuBaig\source\repos\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.csproj.AssemblyReference.cache
+C:\Users\MuBaig\source\repos\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.csproj.CoreCompileInputs.cache
+C:\Users\MuBaig\source\repos\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.dll
+C:\Users\MuBaig\source\repos\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapClientMananger\bin\Debug\KitapClientMananger.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapClientMananger\bin\Debug\KitapClientMananger.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.csproj.AssemblyReference.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapClientMananger\bin\Debug\KitapClientMananger.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapClientMananger\bin\Debug\KitapClientMananger.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.csproj.AssemblyReference.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapClientMananger\bin\Debug\KitapClientMananger.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapClientMananger\bin\Debug\KitapClientMananger.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.csproj.AssemblyReference.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapClientMananger\bin\Debug\KitapClientMananger.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapClientMananger\bin\Debug\KitapClientMananger.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.csproj.AssemblyReference.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapClientMananger\obj\Debug\KitapClientMananger.pdb

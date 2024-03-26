@@ -1,0 +1,447 @@
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.AssemblyReference.cache
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\obj\Debug\Views\MainWindow.g.cs
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\obj\Debug\Views\LoginView.g.cs
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\obj\Debug\Views\SignUp.g.cs
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\obj\Debug\App.g.cs
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\obj\Debug\KitapUIElements_MarkupCompile.cache
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\obj\Debug\KitapUIElements_MarkupCompile.lref
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.exe.config
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.exe
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.pdb
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\bin\Debug\KitapRepositories.dll
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\bin\Debug\KitapRepositories.pdb
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\obj\Debug\Views\MainWindow.baml
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\obj\Debug\Views\LoginView.baml
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\obj\Debug\Views\SignUp.baml
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.g.resources
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.Properties.Resources.resources
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.GenerateResource.cache
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.CoreCompileInputs.cache
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.CopyComplete
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.exe
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.pdb
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\bin\Debug\KitapCache.dll
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\bin\Debug\KitapClientMananger.dll
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\bin\Debug\KitapCache.pdb
+C:\Users\MuBaig\source\repos\KitapClient\KitapUIElements\bin\Debug\KitapClientMananger.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.AssemblyReference.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainWindow.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\LoginView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SignUp.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SplashScreenView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\App.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements_MarkupCompile.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements_MarkupCompile.lref
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.exe.config
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapCache.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapClientMananger.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapRepositories.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapRepositories.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapCache.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapClientMananger.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainWindow.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\LoginView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SignUp.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SplashScreenView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.g.resources
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.Properties.Resources.resources
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.GenerateResource.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.CopyComplete
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.exe.config
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.exe
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.pdb
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapCache.dll
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapClientMananger.dll
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapRepositories.dll
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapRepositories.pdb
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapCache.pdb
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapClientMananger.pdb
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainWindow.g.cs
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\LoginView.g.cs
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SignUp.g.cs
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SplashScreenView.g.cs
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\App.g.cs
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements_MarkupCompile.cache
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements_MarkupCompile.lref
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainWindow.baml
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\LoginView.baml
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SignUp.baml
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SplashScreenView.baml
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.g.resources
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.Properties.Resources.resources
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.CopyComplete
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.exe
+C:\Users\DELL\Desktop\project\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.exe.config
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapCache.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapClientMananger.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapRepositories.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapRepositories.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapCache.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapClientMananger.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.AssemblyReference.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\CheckoutView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\DashboardView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\FantasyGenreView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainAppWindow.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainWindow.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\LoginView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MysteryGenreView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderDisplayView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ProductDisplay.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SignUp.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SplashScreenView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\App.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements_MarkupCompile.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements_MarkupCompile.lref
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\App.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Themes\Generic.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\CheckoutView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\DashboardView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\FantasyGenreView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainAppWindow.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainWindow.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\LoginView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MysteryGenreView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderDisplayView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ProductDisplay.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SignUp.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SplashScreenView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.g.resources
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.Properties.Resources.resources
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.GenerateResource.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.CopyComplete
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderConfirmationModal.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderConfirmationModal.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.exe.config
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapCache.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapClientMananger.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapRepositories.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapRepositories.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapCache.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapClientMananger.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.AssemblyReference.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\DashboardView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainAppWindow.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainWindow.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\LoginView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderConfirmationModal.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderDisplayView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ProductDisplay.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SignUp.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SplashScreenView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\App.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements_MarkupCompile.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements_MarkupCompile.lref
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\App.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Themes\Generic.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\DashboardView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainAppWindow.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainWindow.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\LoginView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderConfirmationModal.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderDisplayView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ProductDisplay.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SignUp.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SplashScreenView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.g.resources
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.Properties.Resources.resources
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.GenerateResource.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.CopyComplete
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\CancelMenu.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\CancelMenu.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderConfirmed.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderConfirmed.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Data.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Drawing.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Mvvm.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Core.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Data.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Drawing.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Mvvm.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Core.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Ribbon.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Ribbon.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\AdminDashboard.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\AdminDashboard.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Grid.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Grid.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Grid.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Grid.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ManageProductsView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ManageProductsView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\Add-ModifyItemWindow.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\Add-ModifyItemWindow.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.exe.config
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Data.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Drawing.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Mvvm.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Core.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Grid.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Grid.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Ribbon.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapCache.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapClientMananger.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapRepositories.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapRepositories.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapCache.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapClientMananger.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Data.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Drawing.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Mvvm.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Core.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Grid.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Grid.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Ribbon.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.AssemblyReference.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\Add-ModifyItemWindow.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\AdminDashboard.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\Add-ModifyItemWindow.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\AdminDashboard.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\CancelMenu.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\DashboardView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainAppWindow.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainWindow.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\LoginView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderConfirmationModal.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderConfirmed.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderDisplayView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ProductDisplay.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ManageProductsView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SignUp.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SplashScreenView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\App.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements_MarkupCompile.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements_MarkupCompile.lref
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\App.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Themes\Generic.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\CancelMenu.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\DashboardView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainAppWindow.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainWindow.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\LoginView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderConfirmationModal.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderConfirmed.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderDisplayView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ProductDisplay.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ManageProductsView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SignUp.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SplashScreenView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.g.resources
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.Properties.Resources.resources
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.GenerateResource.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.CopyComplete
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ManageCustomersView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ManageCustomersView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.exe.config
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Data.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Drawing.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Mvvm.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Core.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Grid.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Grid.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Ribbon.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapCache.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapClientMananger.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapRepositories.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapRepositories.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapCache.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapClientMananger.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Data.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Drawing.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Mvvm.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Core.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Grid.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Grid.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Ribbon.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.AssemblyReference.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\Add-ModifyItemWindow.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\AdminDashboard.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\Add-ModifyItemWindow.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\AdminDashboard.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\CancelMenu.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\DashboardView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainAppWindow.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainWindow.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\LoginView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ManageCustomersView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderConfirmationModal.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderConfirmed.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderDisplayView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ProductDisplay.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ManageProductsView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SignUp.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SplashScreenView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\App.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements_MarkupCompile.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements_MarkupCompile.lref
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\App.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Themes\Generic.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\CancelMenu.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\DashboardView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainAppWindow.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainWindow.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\LoginView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ManageCustomersView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderConfirmationModal.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderConfirmed.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderDisplayView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ProductDisplay.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ManageProductsView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SignUp.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SplashScreenView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.g.resources
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.Properties.Resources.resources
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.GenerateResource.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.CopyComplete
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Docking.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Layout.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.XtraBars.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Utils.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Docking.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Layout.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Utils.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.exe.config
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapUIElements.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Data.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Drawing.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Mvvm.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Core.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Docking.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Grid.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Grid.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Layout.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Ribbon.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.XtraBars.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapCache.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapClientMananger.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapRepositories.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Utils.v23.2.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapRepositories.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapCache.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\KitapClientMananger.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Data.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Drawing.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Mvvm.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Core.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Docking.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Grid.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Grid.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Layout.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Xpf.Ribbon.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Utils.v23.2.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.AssemblyReference.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\Add-ModifyItemWindow.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\AdminDashboard.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\Add-ModifyItemWindow.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\AdminDashboard.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\CancelMenu.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\DashboardView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainAppWindow.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainWindow.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\LoginView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ManageCustomersView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderConfirmed.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderDisplayView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ProductDisplay.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ManageProductsView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SignUp.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SplashScreenView.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\App.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements_MarkupCompile.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements_MarkupCompile.lref
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\App.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Themes\Generic.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\CancelMenu.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\DashboardView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainAppWindow.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\MainWindow.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\LoginView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ManageCustomersView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderConfirmed.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\OrderDisplayView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ProductDisplay.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\ManageProductsView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SignUp.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\Views\SplashScreenView.baml
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.g.resources
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.Properties.Resources.resources
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.GenerateResource.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.csproj.CopyComplete
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.exe
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapClient\KitapUIElements\obj\Debug\KitapUIElements.pdb

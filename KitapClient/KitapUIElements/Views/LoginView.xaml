@@ -1,0 +1,93 @@
+﻿<Page x:Class="KitapUIElements.Views.LoginView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"  
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:KitapUIElements.Views"
+      xmlns:viewmodels="clr-namespace:KitapUIElements.ViewModels" 
+      d:DataContext="{d:DesignInstance Type=viewmodels:LoginVM}"
+      mc:Ignorable="d" 
+      d:DesignHeight="550" d:DesignWidth="450" Height="550" Width="450"
+      Title="LoginView">
+
+    <Border CornerRadius="0">
+        <Border.Background>
+            <ImageBrush ImageSource="C:/ImageSource/LoginView.jpg" /> 
+        </Border.Background>
+
+        
+
+        <Border CornerRadius="0" 
+         BorderBrush="Black" 
+         BorderThickness="5"
+         Opacity="0.6">
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="297*"/>
+                    <ColumnDefinition Width="98*"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <local:CancelMenu Grid.ColumnSpan="2"/>
+
+                <StackPanel Width="240" Grid.Row="1" Margin="90,0,0,0">
+                    <Image Source="C:/ImageSource/LogoDesign.png" Width="200" Height="150"/>
+                    <TextBlock Text="Username" Foreground="Black" FontSize="12" FontWeight="Medium" Margin="0,30,0,0"/>
+                    <TextBox Name="txtUser" FontSize="13" FontWeight="Medium" Foreground="Black" CaretBrush="Black" BorderBrush="Black" BorderThickness="0,0,0,2" Height="28" VerticalContentAlignment="Center" Margin="0,5,0,0" Padding="20,0,0,0" TextChanged="txtUser_TextChanged">
+
+                        <TextBox.Background>
+                            <ImageBrush ImageSource="C:/ImageSource/icons8-user-10.png" Stretch='None' AlignmentX="Left" ></ImageBrush>
+                        </TextBox.Background>
+
+                    </TextBox >
+                    <TextBlock Text="Password" Foreground="Black" FontSize="12" FontWeight="Medium" Margin="0,30,0,0"/>
+                    
+                    <dxe:PasswordBoxEdit x:Name="passwordEdit" PasswordChar="●" FontSize="13" FontWeight="Medium" Foreground="Black" CaretBrush="Black" BorderBrush="Black" BorderThickness="0,0,0,2" Height="28" VerticalContentAlignment="Center" Margin="0,5,0,0" Padding="20,0,0,0" EditValueChanged="passwordEdit_TextChanged">
+                        <dxe:PasswordBoxEdit.Background>
+                            <ImageBrush ImageSource="C:/ImageSource/icons8-lock-10.png" Stretch="None"  AlignmentX="Left" ></ImageBrush>
+                        </dxe:PasswordBoxEdit.Background>
+                    </dxe:PasswordBoxEdit>
+
+                    <Button Name="btnLogin" BorderThickness="0" Content="LOG IN" Foreground="White" FontSize="16" Cursor="Hand" Grid.Column="2" Margin="0,50,0,0" Command="{Binding LoginCommand}">
+
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background" Value="Black"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="DarkOliveGreen"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Width="150" Height="30" CornerRadius="15" Background="{TemplateBinding Background}">
+                                    <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"></ContentPresenter>
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+
+                    </Button>
+
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,15,0,0">
+                        <TextBlock Text="Don't have an account?" Foreground="Black" FontSize="12" FontWeight="Medium" Cursor="Hand" />
+                        <TextBlock FontSize="12" FontWeight="Medium" Margin="8,0,0,0">
+                     <Hyperlink Click="btnGoToSignUp_Click">
+                             <TextBlock Text="Sign Up" Foreground="DarkOliveGreen" TextDecorations="Underline" Cursor="Hand"/>
+                     </Hyperlink>
+                  </TextBlock>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+    </Border>
+</Page>

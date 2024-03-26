@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomerModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CustomerModel>
+    <CustomerId>0</CustomerId>
+    <Username>Elizabeth34</Username>
+    <Password>pass</Password>
+    <FirstName>Elizabeth</FirstName>
+    <LastName>Cook</LastName>
+    <Address>Flat A-308/R</Address>
+    <Email>cook@gmail.com</Email>
+  </CustomerModel>
+  <CustomerModel>
+    <CustomerId>0</CustomerId>
+    <Username>Jake2323</Username>
+    <Password>pass</Password>
+    <FirstName>Jake</FirstName>
+    <LastName>kale</LastName>
+    <Address>House A -384</Address>
+    <Email>Kale@gmail.com</Email>
+  </CustomerModel>
+  <CustomerModel>
+    <CustomerId>0</CustomerId>
+    <Username>Bethy987</Username>
+    <Password>pass</Password>
+    <FirstName>Bethany</FirstName>
+    <LastName>Renae</LastName>
+    <Address>house no 534 A-87</Address>
+    <Email>renae@gmail.com</Email>
+  </CustomerModel>
+  <CustomerModel>
+    <CustomerId>0</CustomerId>
+    <Username>Genin2164</Username>
+    <Password>pass</Password>
+    <FirstName>Bethy</FirstName>
+    <LastName>genen</LastName>
+    <Address>House-A065</Address>
+    <Email>gene@gmail.com</Email>
+  </CustomerModel>
+  <CustomerModel>
+    <CustomerId>0</CustomerId>
+    <Username>dsf</Username>
+    <Password>pass</Password>
+    <FirstName>fsdfs</FirstName>
+    <LastName>fsdfs</LastName>
+    <Address>dfsdf</Address>
+    <Email>fsdf</Email>
+  </CustomerModel>
+</ArrayOfCustomerModel>

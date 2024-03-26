@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="KitapUIElements.Views.ManageCustomersView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid"
+             xmlns:local="clr-namespace:KitapUIElements.Views" xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+
+
+        <dx:SimpleButton Padding="5" Margin="0,10,631,10" Background="#2E8B57" Width="150" Height="30" CornerRadius="15" Grid.Row="0"  Content="Approve User"  Foreground="White" Glyph="C:/ImageSource/icons8-tick-24.png" Click="ApproveRequest"/>
+        <dxg:GridControl x:Name='GridManageCustomers' AutoGenerateColumns="AddNew" 
+                 EnableSmartColumnsGeneration="True" 
+                 ItemsSource="{Binding PendingCustomers}" Grid.Row="1" SelectedItems="{Binding Selection}">
+            <dxg:GridControl.Columns>
+                <dxg:GridColumn FieldName="UserType" Visible="False" />
+            </dxg:GridControl.Columns>
+            <dxg:GridControl.View>
+                <dxg:TableView x:Name="view" NewItemRowPosition="Bottom" AllowEditing="False" />
+            </dxg:GridControl.View>
+        </dxg:GridControl>
+
+
+    </Grid>
+</UserControl>

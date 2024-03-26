@@ -1,0 +1,30 @@
+C:\Users\MuBaig\source\repos\KitapRepositories\KitapRepositories\bin\Debug\KitapRepositories.dll
+C:\Users\MuBaig\source\repos\KitapRepositories\KitapRepositories\bin\Debug\KitapRepositories.pdb
+C:\Users\MuBaig\source\repos\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.csproj.AssemblyReference.cache
+C:\Users\MuBaig\source\repos\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.csproj.CoreCompileInputs.cache
+C:\Users\MuBaig\source\repos\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.dll
+C:\Users\MuBaig\source\repos\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapRepositories\KitapRepositories\bin\Debug\KitapRepositories.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapRepositories\KitapRepositories\bin\Debug\KitapRepositories.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.csproj.AssemblyReference.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\cURRENT PROJECT\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapRepositories\KitapRepositories\bin\Debug\KitapRepositories.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapRepositories\KitapRepositories\bin\Debug\KitapRepositories.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.csproj.AssemblyReference.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\Projectversions\bleh\bleh\cURRENT PROJECT\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapRepositories\KitapRepositories\bin\Debug\KitapRepositories.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapRepositories\KitapRepositories\bin\Debug\KitapRepositories.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.csproj.AssemblyReference.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\modify product\cURRENT PROJECT\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapRepositories\KitapRepositories\bin\Debug\KitapRepositories.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapRepositories\KitapRepositories\bin\Debug\KitapRepositories.pdb
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.csproj.AssemblyReference.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.dll
+D:\OneDrive - TRAFiX, LLC\Desktop\tabbing working\done\cURRENT PROJECT\KitapRepositories\KitapRepositories\obj\Debug\KitapRepositories.pdb
